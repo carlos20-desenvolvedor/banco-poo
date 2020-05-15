@@ -20,6 +20,7 @@ namespace BancoPOO.Console
                 {
                     opcaoinvalida = false;
                     var register = new Register();
+                    register.ShowPage();
                 }
                 else if (resultado.ToLower() == "Nao".ToLower())
                 {

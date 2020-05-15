@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BancoPOO.Console", "BancoPO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoPOO.Pages", "BancoPOO.Pages\BancoPOO.Pages.csproj", "{0988AAB6-2033-4CA2-9C3B-EC8F12748449}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoPoo.Models", "BancoPoo.Models\BancoPoo.Models.csproj", "{525971D0-89D5-4DA0-B59B-B5ABF9B95ED6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0988AAB6-2033-4CA2-9C3B-EC8F12748449}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0988AAB6-2033-4CA2-9C3B-EC8F12748449}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0988AAB6-2033-4CA2-9C3B-EC8F12748449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525971D0-89D5-4DA0-B59B-B5ABF9B95ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525971D0-89D5-4DA0-B59B-B5ABF9B95ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525971D0-89D5-4DA0-B59B-B5ABF9B95ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525971D0-89D5-4DA0-B59B-B5ABF9B95ED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
